@@ -1,0 +1,7 @@
+.banner {
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url("https://previews.123rf.com/images/vasiliybudarin/vasiliybudarin1902/vasiliybudarin190200047/117517269-tasty-pepperoni-pizza-with-basil-on-brown-concrete-background-top-view-of-hot-pepperoni-pizza-with.jpg") ;
+    background-size: cover;
+    background-position: center;
+    height: 80vh;
+    width: 100%;
+}
